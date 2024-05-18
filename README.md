@@ -2,6 +2,12 @@
 
 ## Project Description
 This project is designed to build an SU-27 RC plane using 5mm KT board (cold board). The plane is easy to assemble, cost-effective, and capable of performing various stunts.
+![1](https://github.com/ChengI-Chao/su27-kt-board-rc-plane/assets/166147704/aa642c6c-f4e4-4a5c-8e76-1dbd191f13e0)
+![2](https://github.com/ChengI-Chao/su27-kt-board-rc-plane/assets/166147704/f7a83f2b-3282-4d60-ab7c-2f5bca963de2)
+
+
+https://github.com/ChengI-Chao/su27-kt-board-rc-plane/assets/166147704/855fd93b-0317-4d5f-8038-0bb181586ec9
+
 
 ## Required Tools
 - Laser cutter
