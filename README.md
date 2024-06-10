@@ -19,7 +19,7 @@ https://github.com/ChengI-Chao/su27-kt-board-rc-plane/assets/166147704/855fd93b-
 - 5mm thick KT board (cold board)
 - Hot glue sticks
 - 8060 two-blade propeller
-- Brushless motor or EDF (Electric Ducted Fan)
+- KV1400 brushless motor or EDF (Electric Ducted Fan)
 - Sufficiently powerful Electronic Speed Controller (ESC)
 - Battery (3-4S LiPo)
 - Remote control and compatible receiver
