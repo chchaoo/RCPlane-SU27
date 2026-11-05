@@ -12,7 +12,7 @@ Two versions: ducted fan (EDF) or propeller.**
 
 **English** · [简体中文](README.zh-CN.md)
 
-### [⬇ Download the cut files (.zip)](https://github.com/chchaoo/RCPlane-SU27/releases/latest)
+### [⬇ Download plans (DXF / STL)](https://github.com/chchaoo/RCPlane-SU27/releases/latest)
 
 <img src="docs/images/photo-2.jpg" width="49%" alt="The EDF version from the rear, the ducted fan sits on top"> <img src="docs/images/photo-1.jpg" width="49%" alt="The EDF version on the grass, side view"></div>
 

@@ -12,7 +12,7 @@
 
 [English](README.md) · **简体中文**
 
-### [⬇ 下载切割图纸（.zip）](https://github.com/chchaoo/RCPlane-SU27/releases/latest)
+### [⬇ 下载图纸与打印件](https://github.com/chchaoo/RCPlane-SU27/releases/latest)
 
 <img src="docs/images/photo-1.jpg" width="49%" alt="涵道版，侧面"> <img src="docs/images/photo-2.jpg" width="49%" alt="涵道版，后方视角，涵道装在机背上"></div>
 
